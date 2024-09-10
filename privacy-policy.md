@@ -4,14 +4,11 @@ We do not require or offer input of any personal data in order to use our app.
 ## Collection of Routine Information
 We do not track any information about our users.
 
-
 ## Cookies
 We do not store any information in cookies.
 
-
 ## Advertisement and Other Third Parties
 We do not have any advertisement or third parties.
-
 
 ## Links to Third Party Websites
 We do not have any links to third party websites.
