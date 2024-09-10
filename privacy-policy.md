@@ -1,5 +1,5 @@
 # Privacy Policy
-We do not require input of any personal data in order to use this app.
+We do not require or offer input of any personal data in order to use our app.
 
 ## Collection of Routine Information
 We do not track any information about our users.
