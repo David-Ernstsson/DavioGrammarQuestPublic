@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi, I'm a .NET developer who recently moved to Germany from Sweden with my partner and son. While I quickly learned enough German to 'get by,' I struggled with both easy and complex parts of German grammar. I found that grammar is crucial not only for reading and writing but also for everyday conversations. It's essential for quickly understanding simple sentences and expressing oneself properly.
+Hi, I'm a .NET developer who recently moved to Germany from Sweden with my partner and our son. While I quickly learned enough German to 'get by,' I struggled with both easy and complex parts of German grammar. I found that grammar is crucial not only for reading and writing but also for everyday conversations. It's essential for quickly understanding simple sentences and expressing oneself properly.
 
 ## Why I Created Davio
 
