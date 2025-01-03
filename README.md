@@ -20,6 +20,7 @@ Davio is designed to be fun, quick, and effective — helping users learn German
 ## Features
 
 - 📖 Interactive grammar lessons for key German grammar topics.
+- 🔍 Quick Search Function – Easily find the correct gender for nouns and verb conjugations.
 - 📝 Exercises tailored to improve both basic and advanced grammar skills.
 - 📊 Progress tracking to monitor learning.
 - 🖥️ Clean and modern UI with intuitive navigation.
