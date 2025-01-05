@@ -25,6 +25,8 @@ Davio is designed to be fun, quick, and effective — helping users learn German
 - 📊 Progress tracking to monitor learning.
 - 🖥️ Clean and modern UI with intuitive navigation.
 - 🌍 Offline support for learning on the go.
+- 🌗 Supports both light and dark mode as well as multiple color themes.
+- 📖 Each grammar lesson includes a longer example sentence and text-to-speech functionality.
 
 ## Future Roadmap
 
@@ -54,7 +56,7 @@ Davio is built with the following technologies:
   - A set of powerful UI components for creating modern user interfaces.
 - ✍️ **MAUI C# Markup** - [Learn More](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/markup/markup)
   - Enables declarative UI design using C# instead of XAML.
- 
+
 ## Powered by AI 🤖
 This project also benefited from AI tools, including [ChatGPT](https://openai.com/chatgpt) for drafting and refining ideas and generating images.
 
