@@ -32,8 +32,7 @@ I plan to continuously expand Davio with:
 
 - ➕ New grammar topics and exercises.
 - 🎮 Improved gamification for learning.
-- 🔊 More audio examples and pronunciation guides.
-- 👥 Community features for group learning.
+- 🔊 More audio examples and hints.
 
 ## How to Contribute
 
