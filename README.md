@@ -68,5 +68,5 @@ If you have questions or feedback, feel free to reach out via:
 - 📝 **GitHub Issues**: [Open an Issue](link-to-issues)
 
 ---
-**Davio** - Learn German Grammar the Fun Way!
+**Davio** - Learn German Grammar the Easy and Effective Way!
 
