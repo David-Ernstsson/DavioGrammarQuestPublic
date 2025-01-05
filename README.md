@@ -27,6 +27,11 @@ Davio is designed to be fun, quick, and effective — helping users learn German
 - 🌍 Offline support for learning on the go.
 - 🌗 Supports both light and dark mode as well as multiple color themes.
 
+## Screenshots
+<a href="images/Screenshot_1736077086.png">
+  <img src="images/Screenshot_1736077086.png" alt="Thumbnail Description" width="200"/>
+</a>
+
 ## Future Roadmap
 
 I plan to continuously expand Davio with:
