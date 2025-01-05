@@ -29,8 +29,33 @@ Davio is designed to be fun, quick, and effective — helping users learn German
 
 ## Screenshots
 <a href="images/Screenshot_1736077086.png">
-  <img src="images/Screenshot_1736077086.png" alt="Thumbnail Description" width="200"/>
+  <img src="images/Screenshot_1736077086.png" alt="Thumbnail Description 1" width="150"/>
 </a>
+<a href="images/Screenshot_1736077107.png">
+  <img src="images/Screenshot_1736077107.png" alt="Thumbnail Description 2" width="150"/>
+</a>
+<a href="images/Screenshot_1736077140.png">
+  <img src="images/Screenshot_1736077140.png" alt="Thumbnail Description 3" width="150"/>
+</a>
+<a href="images/Screenshot_1736077145.png">
+  <img src="images/Screenshot_1736077145.png" alt="Thumbnail Description 4" width="150"/>
+</a>
+<a href="images/Screenshot_1736077164.png">
+  <img src="images/Screenshot_1736077164.png" alt="Thumbnail Description 5" width="150"/>
+</a>
+<a href="images/Screenshot_1736077209.png">
+  <img src="images/Screenshot_1736077209.png" alt="Thumbnail Description 6" width="150"/>
+</a>
+<a href="images/Screenshot_1736077217.png">
+  <img src="images/Screenshot_1736077217.png" alt="Thumbnail Description 7" width="150"/>
+</a>
+<a href="images/Screenshot_1736077246.png">
+  <img src="images/Screenshot_1736077246.png" alt="Thumbnail Description 8" width="150"/>
+</a>
+<a href="images/Screenshot_1736077285.png">
+  <img src="images/Screenshot_1736077285.png" alt="Thumbnail Description 9" width="150"/>
+</a>
+
 
 ## Future Roadmap
 
