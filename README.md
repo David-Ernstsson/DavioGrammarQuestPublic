@@ -56,7 +56,7 @@ Davio is built with the following technologies:
   - Enables declarative UI design using C# instead of XAML.
  
 ## Powered by AI 🤖
-This project also benefited from AI tools, including [ChatGPT](https://openai.com/chatgpt) for drafting and refining ideas.
+This project also benefited from AI tools, including [ChatGPT](https://openai.com/chatgpt) for drafting and refining ideas and generating images.
 
 ## Get in Touch
 
