@@ -1,7 +1,6 @@
 # Davio - German Grammar Learning App
 
-![Davio Logo](link-to-logo-image)
-
+<img src="images/welcome_screen.png" alt="Davio Logo" width="600"/>
 ## About Me
 
 Hello there and a big warm welcome to Davio! I'm a .NET developer who recently moved to Germany from Sweden with my partner and our son. While I quickly learned enough German to 'get by,' I struggled with both easy and complex parts of German grammar. I found that grammar is crucial not only for reading and writing but also for everyday conversations but it's also essential for quickly understanding simple sentences and expressing oneself with confidence. Davio is a combination of me and my partners' names and our son is a big fan of squirrels 😊
@@ -69,4 +68,5 @@ If you have questions or feedback, feel free to reach out via:
 
 ---
 **Davio** - Learn German Grammar the Easy and Effective Way!
+<img src="images/in_forrest_pose.png" alt="Davio forrest pose" width="600"/>
 
