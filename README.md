@@ -63,8 +63,8 @@ This project also benefited from AI tools, including [ChatGPT](https://openai.co
 
 If you have questions or feedback, feel free to reach out via:
 
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 📝 **GitHub Issues**: [Open an Issue](link-to-issues)
+- 📧 **Email**: [heimchencoders@gmail.com](mailto:heimchencoders@gmail.com)
+- 📝 **GitHub Issues**: [Open an Issue](https://github.com/David-Ernstsson/DavioGrammarQuestPublic/issues)
 
 ---
 **Davio** - Learn German Grammar the Easy and Effective Way!
