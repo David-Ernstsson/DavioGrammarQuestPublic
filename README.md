@@ -56,6 +56,10 @@ Davio is designed to be fun, quick, and effective — helping users learn German
   <img src="images/Screenshot_1736077285.png" alt="Thumbnail Description 9" width="150"/>
 </a>
 
+## Video 📺
+<a href="https://youtube.com/shorts/vmEMmNzVzQM?feature=share">
+  <img src="images/Screenshot_1736077086.png" alt="Thumbnail Description 9" width="150"/>
+</a>
 
 ## Future Roadmap
 
