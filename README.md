@@ -13,7 +13,7 @@ When I started improving my grammar skills, I couldn't find an app that met my n
 Davio is designed to be fun, quick, and effective — helping users learn German grammar while enjoying the process. Though initially built for my own learning journey, I sincerely hope others can benefit and enjoy from it as well.
 
 ## Who is the App For?
-- 🧑‍🎓 Beginners, intermediate and advanced intermediate learners who easily and quickly want to improve their German grammar.
+- 🧑‍🎓 Beginners, intermediate and advanced learners who easily and quickly want to improve their German grammar.
 - 📚 People looking for an engaging and effective way to improve grammar.
 - 💻 Developers or enthusiasts interested in seeing a MAUI-based app in action.
 
