@@ -66,7 +66,7 @@ Davio is designed to be fun, quick, and effective — helping users learn German
 
 I plan to continuously expand Davio with:
 
-- ➕ New grammar topics and exercises.
+- ➕ New grammar topics and exercises. Specific German certificate A1->C1 tests
 - 🎮 Improved gamification for learning.
 - 🔊 More audio examples and hints.
 
