@@ -2,6 +2,8 @@
 
 <img src="images/welcome_screen.png" alt="Davio Logo" width="600"/>
 
+https://play.google.com/store/apps/details?id=com.davio
+
 ## About Me
 
 Hello there and a big warm welcome to Davio! I'm a German learning enthusiast and a .NET developer who recently moved to Germany from Sweden with my wife and our son. While I quickly learned enough German to 'get by,' I struggled with both easy and complex parts of German grammar. I found that grammar is crucial not only for reading and writing but also for everyday conversations but it's also essential for quickly understanding simple sentences and expressing oneself with confidence. Davio the squirrel is a combination of me and my wife's names and our son is a big fan of squirrels 😊
